@@ -1,4 +1,4 @@
-* NGSPICE file created from user_analog_project_wrapper_empty.ext - technology: sky130A
+* NGSPICE file created from user_analog_project_wrapper.ext - technology: sky130A
 
 .subckt constant_gm_local_030423 a_n3719_36# w_n3840_1941# a_n3633_196#
 X0 a_n3688_2136# a_n3633_196# a_n3545_138# a_n3719_36# sky130_fd_pr__nfet_01v8 ad=1.015e+13p pd=7.464e+07u as=8.7e+12p ps=6.348e+07u w=5e+06u l=1e+06u
@@ -267,7 +267,7 @@ Xconstant_gm_local_030423_0 Vss Vdd Vmirror constant_gm_local_030423
 XOTA_fingers_031123_NON_FLAT_0 Vout Vn Vdd Vmirror m1_1738_28844# Vp Vmid Vss OTA_fingers_031123_NON_FLAT
 .ends
 
-.subckt user_analog_project_wrapper_empty gpio_analog[0] gpio_analog[10] gpio_analog[11]
+.subckt user_analog_project_wrapper gpio_analog[0] gpio_analog[10] gpio_analog[11]
 + gpio_analog[12] gpio_analog[13] gpio_analog[14] gpio_analog[15] gpio_analog[16]
 + gpio_analog[17] gpio_analog[1] gpio_analog[2] gpio_analog[3] gpio_analog[4] gpio_analog[5]
 + gpio_analog[6] gpio_analog[7] gpio_analog[8] gpio_analog[9] gpio_noesd[0] gpio_noesd[10]
