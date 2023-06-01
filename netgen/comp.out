@@ -173,8 +173,8 @@ Subcircuit pins:
 Circuit 1: analog_mux                      |Circuit 2: analog_mux                      
 -------------------------------------------|-------------------------------------------
 OUT                                        |OUT                                        
-SIG1                                       |SIG1                                       
 SIG6                                       |SIG6                                       
+SIG1                                       |SIG1                                       
 SIG2                                       |SIG2                                       
 SIG3                                       |SIG3                                       
 SIG4                                       |SIG4                                       
@@ -208,8 +208,8 @@ Flattening unmatched subcell sky130_fd_pr__pfet_01v8_49C6SK in circuit user_anal
 Flattening unmatched subcell sky130_fd_pr__nfet_01v8_JT3SH9 in circuit user_analog_project_wrapper (1)(1 instance)
 Flattening unmatched subcell sky130_fd_pr__res_xhigh_po_5p73_F7BMVG in circuit user_analog_project_wrapper (1)(4 instances)
 Flattening unmatched subcell sky130_fd_pr__nfet_01v8_JEXVB9 in circuit user_analog_project_wrapper (1)(1 instance)
-Flattening unmatched subcell sky130_fd_pr__pfet_01v8_9F67JW in circuit user_analog_project_wrapper (1)(1 instance)
 Flattening unmatched subcell sky130_fd_pr__nfet_01v8_EJ3ASN in circuit user_analog_project_wrapper (1)(2 instances)
+Flattening unmatched subcell sky130_fd_pr__pfet_01v8_9F67JW in circuit user_analog_project_wrapper (1)(1 instance)
 Flattening unmatched subcell sky130_fd_pr__pfet_01v8_GNAJ57 in circuit user_analog_project_wrapper (1)(1 instance)
 Flattening unmatched subcell OTA_MULT_GM in circuit user_analog_project_wrapper (1)(1 instance)
 Flattening unmatched subcell constant_gm_local_030423 in circuit user_analog_project_wrapper (1)(1 instance)
